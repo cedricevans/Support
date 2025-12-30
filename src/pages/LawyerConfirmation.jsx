@@ -44,7 +44,7 @@ const LawyerConfirmation = () => {
   return (
     <>
       <Helmet>
-        <title>Representation Confirmed - FamilyBridge</title>
+        <title>Representation Confirmed - FamilyBridge | Atlanta, GA</title>
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">

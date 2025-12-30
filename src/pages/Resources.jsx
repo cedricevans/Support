@@ -89,8 +89,8 @@ const Resources = () => {
   return (
     <>
       <Helmet>
-        <title>Child Support Resources - FamilyBridge</title>
-        <meta name="description" content="Comprehensive guide to child support preparation. Learn about documents, court processes, and estimate support scenarios." />
+        <title>Child Support Resources - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Comprehensive guide to child support preparation for Atlanta and Fulton County. Learn about documents, court processes, and estimate support scenarios." />
       </Helmet>
 
       <div className="min-h-screen bg-[var(--cream)] text-[var(--ink)] pt-24 pb-16">

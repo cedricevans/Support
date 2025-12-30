@@ -92,7 +92,7 @@ const AttorneyChat = () => {
   return (
     <>
       <Helmet>
-        <title>Chat with {lawyer.name} - FamilyBridge</title>
+        <title>Chat with {lawyer.name} - FamilyBridge | Atlanta, GA</title>
       </Helmet>
 
       <div className="flex flex-col h-screen bg-[var(--cream)] pt-20">

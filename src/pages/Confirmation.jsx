@@ -82,8 +82,8 @@ const Confirmation = () => {
   return (
     <>
       <Helmet>
-        <title>Your Support Strategy - FamilyBridge</title>
-        <meta name="description" content="View and download your AI-generated child support strategy." />
+        <title>Your Support Strategy - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="View and download your AI-generated child support strategy for court in Atlanta and Fulton County." />
       </Helmet>
 
       <div className="min-h-screen pt-24 pb-16 bg-[var(--cream)] relative print:bg-white print:p-0 print:min-h-0">

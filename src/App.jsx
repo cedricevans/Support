@@ -28,8 +28,8 @@ function App() {
   return (
     <Router>
       <Helmet>
-        <title>FamilyBridge - Child Support Strategy & Lawyer Match</title>
-        <meta name="description" content="Scan child support papers, get an AI-generated court strategy, and connect with a family-law attorney when you need representation." />
+        <title>FamilyBridge - Child Support Strategy & Attorney Match | Atlanta, GA</title>
+        <meta name="description" content="Scan child support papers, get an AI-generated court strategy, and connect with a family-law attorney in Atlanta and Fulton County." />
       </Helmet>
       
       <ScrollToTop />

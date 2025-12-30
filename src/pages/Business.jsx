@@ -8,7 +8,7 @@ const Business = () => {
   return (
     <>
       <Helmet>
-        <title>Business & Partnerships - FamilyBridge</title>
+        <title>Business & Partnerships - FamilyBridge | Atlanta, GA</title>
         <meta name="description" content="SaaS and white‑label options for family‑law firms, plus investment opportunities and a go‑to‑market plan." />
       </Helmet>
 

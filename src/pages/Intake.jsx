@@ -11,8 +11,8 @@ const Intake = () => {
   return (
     <>
       <Helmet>
-        <title>Support Intake - FamilyBridge</title>
-        <meta name="description" content="Provide child support details to generate a custom court strategy and preparation plan." />
+        <title>Support Intake - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Provide child support details to generate a custom court strategy and preparation plan for Atlanta and Fulton County." />
       </Helmet>
       
       <main className="min-h-screen pt-20 pb-16 bg-[var(--cream)]">

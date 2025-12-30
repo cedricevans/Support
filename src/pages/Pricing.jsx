@@ -11,8 +11,8 @@ const Pricing = () => {
   return (
     <>
       <Helmet>
-        <title>Select Support Plan - FamilyBridge</title>
-        <meta name="description" content="Choose your support strategy. Affordable AI-powered plans or attorney review." />
+        <title>Select Support Plan - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Choose your support strategy. Affordable AI-powered plans or attorney review for Atlanta and Fulton County." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 relative bg-[var(--cream)]">

@@ -61,8 +61,8 @@ const QuickTips = () => {
   return (
     <div className="pt-24 pb-16 bg-[var(--cream)] min-h-screen">
       <Helmet>
-        <title>Quick Tips & Free Advice - FamilyBridge</title>
-        <meta name="description" content="Free child support tips and advice. Learn what to bring to court, how to prepare, and understand the process." />
+        <title>Child Support Tips - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Free child support tips and advice for Atlanta and Fulton County. Learn what to bring to court, how to prepare, and understand the process." />
       </Helmet>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">

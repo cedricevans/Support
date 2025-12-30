@@ -86,8 +86,8 @@ const Tracker = () => {
   return (
     <>
       <Helmet>
-        <title>Track Your Case - FamilyBridge</title>
-        <meta name="description" content="Check the real-time status of your child support preparation." />
+        <title>Track Your Case - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Check the real-time status of your child support preparation in Atlanta and Fulton County." />
       </Helmet>
 
       <main className="min-h-screen pt-28 pb-20 relative bg-[var(--cream)]">

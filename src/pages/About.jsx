@@ -30,8 +30,8 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Us - FamilyBridge</title>
-        <meta name="description" content="Learn how FamilyBridge helps parents prepare for child support court with clarity, confidence, and access to family-law attorneys." />
+        <title>About Us - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Learn how FamilyBridge helps parents in Atlanta prepare for child support court with clarity, confidence, and access to family-law attorneys." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">

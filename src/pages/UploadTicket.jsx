@@ -113,10 +113,10 @@ const UploadTicket = () => {
   return (
     <>
       <Helmet>
-        <title>Scan Support Papers - FamilyBridge</title>
+        <title>Scan Support Papers - FamilyBridge | Atlanta, GA</title>
         <meta
           name="description"
-          content="Scan your child support papers and get instant AI-powered analysis with a court-ready strategy."
+          content="Scan child support papers and get AI-powered analysis with a court-ready strategy for Atlanta and Fulton County."
         />
       </Helmet>
 

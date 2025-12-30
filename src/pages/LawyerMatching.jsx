@@ -84,8 +84,8 @@ const LawyerMatching = () => {
   return (
     <>
       <Helmet>
-        <title>Select Attorney - FamilyBridge</title>
-        <meta name="description" content="Choose a top-rated family-law attorney to handle your case." />
+        <title>Select Attorney - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Choose a top-rated family-law attorney in Atlanta and Fulton County to handle your case." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">

@@ -11,8 +11,8 @@ const HowItWorks = () => {
   return (
     <>
       <Helmet>
-        <title>How It Works - FamilyBridge</title>
-        <meta name="description" content="Learn how FamilyBridge analyzes child support papers and generates a court-ready strategy." />
+        <title>How It Works - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Learn how FamilyBridge analyzes child support papers and generates a court-ready strategy for Atlanta and Fulton County." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">

@@ -38,7 +38,7 @@ const AboutThisApp = () => {
     <>
       <Helmet>
         <title>About This App - Platform Overview | FamilyBridge</title>
-        <meta name="description" content="Overview of the FamilyBridge platform technology, AI capabilities, and value proposition for partners." />
+        <meta name="description" content="Overview of the FamilyBridge platform for child support preparation, AI capabilities, and partner options." />
       </Helmet>
 
       <div className="pt-24 pb-16 bg-[var(--cream)]">

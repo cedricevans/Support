@@ -7,8 +7,8 @@ const LegalDisclaimer = () => {
   return (
     <>
       <Helmet>
-        <title>Legal Disclaimer - FamilyBridge</title>
-        <meta name="description" content="Important legal information and disclaimers about FamilyBridge's AI-powered child support preparation service." />
+        <title>Legal Disclaimer - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Important legal information and disclaimers about FamilyBridge's AI-powered child support preparation service for Atlanta and Fulton County." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">

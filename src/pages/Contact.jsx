@@ -60,8 +60,8 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us - FamilyBridge</title>
-        <meta name="description" content="Get in touch with FamilyBridge. We're here to help with child support questions and court preparation." />
+        <title>Contact Us - FamilyBridge | Atlanta, GA</title>
+        <meta name="description" content="Get in touch with FamilyBridge. We're here to help with child support questions and court preparation in Atlanta and Fulton County." />
       </Helmet>
 
       <main className="min-h-screen pt-24 pb-16 bg-[var(--cream)]">
