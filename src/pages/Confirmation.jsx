@@ -181,7 +181,7 @@ const Confirmation = () => {
                              <h4 className="font-bold text-[var(--ink)]">Upgrade to Attorney Review</h4>
                         </div>
                         <p className="text-sm text-[var(--moss)] opacity-70">
-                            We'll credit your $29 payment towards hiring a local attorney.
+                            We'll credit your $49 payment towards hiring a local attorney.
                         </p>
                     </div>
                     <Button 

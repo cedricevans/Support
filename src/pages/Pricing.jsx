@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { useLocation } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import PricingTiers from '@/components/home/PricingTiers';
 
 const Pricing = () => {
@@ -35,6 +35,14 @@ const Pricing = () => {
               </div>
             )}
             <PricingTiers caseData={caseData} />
+            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 text-center">
+              <p className="text-[var(--moss)] opacity-80">
+                Looking for SaaS, white‑label, or investment options?
+                <Link to="/business" className="ml-2 font-bold text-[var(--moss)] underline underline-offset-4">
+                  Business & Partnerships
+                </Link>
+              </p>
+            </div>
         </div>
       </main>
     </>

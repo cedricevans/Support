@@ -71,7 +71,7 @@ const PricingTiers = ({ caseData }) => {
             </div>
 
             <div className="mb-6">
-                <div className="text-5xl font-black text-[var(--ink)] mb-1">$29</div>
+                <div className="text-5xl font-black text-[var(--ink)] mb-1">$49</div>
                 <p className="text-[var(--moss)] text-sm opacity-70">One-time fee</p>
             </div>
 
@@ -153,6 +153,7 @@ const PricingTiers = ({ caseData }) => {
           </motion.div>
 
         </div>
+
       </div>
     </section>
   );

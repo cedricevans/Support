@@ -12,6 +12,7 @@ import Pricing from '@/pages/Pricing';
 import HowItWorks from '@/pages/HowItWorks';
 import About from '@/pages/About';
 import AboutThisApp from '@/pages/AboutThisApp';
+import Business from '@/pages/Business';
 import Contact from '@/pages/Contact';
 import LegalDisclaimer from '@/pages/LegalDisclaimer';
 import Resources from '@/pages/Resources';
@@ -46,6 +47,7 @@ function App() {
             <Route path="/how-it-works" element={<HowItWorks />} />
             <Route path="/about" element={<About />} />
             <Route path="/about-app" element={<AboutThisApp />} />
+            <Route path="/business" element={<Business />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/resources" element={<Resources />} />
             <Route path="/quick-tips" element={<QuickTips />} /> {/* Route for QuickTips */}
